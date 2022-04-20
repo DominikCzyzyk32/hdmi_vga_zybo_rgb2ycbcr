@@ -1,0 +1,8 @@
+verilog xil_defaultlib  \
+"../../../../hdmi_vga_zybo.gen/sources_1/ip/rgb2ycbcr_0/src/delay_line.v" \
+"../../../../hdmi_vga_zybo.gen/sources_1/ip/rgb2ycbcr_0/src/rgb2ycbcr.v" \
+"../../../../hdmi_vga_zybo.gen/sources_1/ip/rgb2ycbcr_0/sim/rgb2ycbcr_0.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

@@ -1,0 +1,2 @@
+LUT_b.v,verilog,xil_defaultlib,../../../../hdmi_vga_zybo.gen/sources_1/ip/LUT_b/sim/LUT_b.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
